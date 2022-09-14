@@ -1,0 +1,3 @@
+Esto es un fichero con una línea de texto
+
+Soy Antonio y modifico el fichero de emma
