@@ -1,3 +1,7 @@
+
+Esto es un fichero con una línea de texto.
+Lara modifica el fichero de Emma.
+
 Esto es un fichero con una línea de texto
  RamaAnto
 
@@ -6,4 +10,8 @@ Soy Antonio y modifico el fichero de emma
 Catalina modifica este fichero
 
 soy enrique
+ RamaAnto
+ main
+=======
+
  main
