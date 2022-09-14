@@ -1,1 +1,2 @@
-Esto es un fichero con una línea de texto
+Esto es un fichero con una línea de texto.
+Lara modifica el fichero de Emma.
